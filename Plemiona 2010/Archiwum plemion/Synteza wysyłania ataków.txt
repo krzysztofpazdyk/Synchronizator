@@ -1,0 +1,26 @@
+Multilinks.
+
+Gracze dostaj¹ listy ataków do wys³ania, wygl¹daj¹ce na przyk³ad tak:
+
+[b]1[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=113687&screen=place&mode=command&target=301897]Wykonaj[/url]
+[b]2[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=114658&screen=place&mode=command&target=307403]Wykonaj[/url]
+[b]3[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=114776&screen=place&mode=command&target=301897]Wykonaj[/url]
+[b]4[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=116603&screen=place&mode=command&target=307277]Wykonaj[/url]
+[b]5[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=117544&screen=place&mode=command&target=299087]Wykonaj[/url]
+[b]6[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=117765&screen=place&mode=command&target=301897]Wykonaj[/url]
+[b]7[/b]. 2010-08-30 21:00:00 Tar [url=http://pl9.plemiona.pl/game.php?village=118045&screen=place&mode=command&target=307277]Wykonaj[/url]
+
+Klikanie na ka¿dy link z osobna i otwieranie go w nowej zak³adce zabiera sporo czasu i jest mêcz¹ce. Multilinks umo¿liwia zaznaczenie tych wszystkich linków jednoczeœnie a nastêpnie po puszczeniu prawego klawisza myszy otwarcie wszystkich linków w nowych zak³adkach.
+
+Oczywiœcie skoro to takie u³atwienie to istnieje pokusa otwarcia wszystkich linków naraz. Przy liczbie 200 i wiêcej jeœli nie mamy dobrego sprzêtu i odpowiedniej iloœci pamiêci otwarcie tylu zak³adek przysporzy nam problemów zamiast byæ u³atwieniem. Sam zwykle otwieram oko³o 200 zak³adek naraz, a sprzêt mam nie starszy ni¿ 6 miesiêcy. Iloœæ otwieranych zak³adek nale¿y dostosowaæ do mo¿liwoœci sprzêtowych dla jednej osoby bêdzie to 100 ataków naraz dla drugiej 50.
+
+Najwa¿niejszym elementem który umo¿liwia znaczn¹ akceleracjê wysy³ania ataków jest SwiftTabs dostêpny pod linkiem [url]https://addons.mozilla.org/pl/firefox/addon/59011/[/url].
+W tym¿e SwiftTab ustawiamy (Ja tak robiê) ¿e przejœcie do kolejnej zak³adki odbywa siê po wciœniêciu literki "n". Oczywiœcie po wys³aniu ataków taki skrót wy³¹czam.
+
+Teraz opiszê krok po kroku jak wygl¹da szybkie wys³anie 10 ataków jednego rodzaju czyli na przyk³ad off.
+
+Otó¿ mamy otwarte 10 zak³adek, jesteœmy na pierwszej z nich, kursor myszki ustawiony jest nad skryptem wstawiaj¹cym offa. Teraz na przemian wciskamy przycisk "n" i przycisk myszy a¿ wrócimy do pierwszej zak³adki. W tym momencie we wszystkich zak³adkach off jest gotowy do wysy³ki.
+Teraz wykonujemy nastêpuj¹c¹ procedurê. Wciskamy przycisk "n" i "Enter" na przemian a¿ wrócimy do pierwszej zak³adki. W tym momencie wszystkie 10 ataków jest gotowe do wys³ania.
+Ustawiamy teraz kursor na potwierdzeniu wys³ania ataków. Jeœli wszystkie ofy s¹ bez katapult albo wszystkie s¹ z katapultami to przycisk ostatecznie wysy³aj¹cy atak bêdzie zawsze w tym samym miejscu.
+Kolejna procedura to wciskamy przycisk "n" i klikamy przycisk myszki na przemian a¿ wrócimy do pierwszej zak³adki.
+W tym momencie wszystkie 10 ataków zosta³o wys³anych.

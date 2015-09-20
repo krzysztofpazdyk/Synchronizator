@@ -1,0 +1,16 @@
+Dowiedzia³em siê ¿e znajomoœæ skryptu do masowej rekrutacji nie jest w plemieniu powszechna. Dlatego proszê osoby dla których obcy jest poni¿szy obrazek o dokonanie wpisu w tym temacie.
+
+[img]http://www.glowacz.pl/ata/masowarekru.jpg[/img]
+
+Instrukcja instalacji:
+
+1. Zainstalowaæ Greasymonkey [url]https://addons.mozilla.org/pl/firefox/addon/748/[/url].
+2. Poni¿szy link zaznaczyæ i skopiowaæ do paska adresu przegl¹darki, nastêpnie wcisn¹æ enter [url]http://osor.de/ds/scripts/get/dsmassrecruit.user.js[/url], ewentualnie link http://www.sendspace.com/file/0wnk4u
+3. Zainstalowaæ.
+4. Klikn¹æ na ma³pkê w prawym dolnym rogu opcja "zarz¹dzaj skryptami".
+5. Nastêpnie okienko pod tytu³em "Witryny na których skrypt jest uruchamiany".
+6. Klikamy znajduj¹cy siê tam wpis i dajemy edytuj i zmieniamy na
+http://pl*.plemiona.pl/game.php?*screen=train&mode=mass*
+
+Od tej pory w w masowej rekrutacji powinny pokazywaæ wam siê opcje takie jak na obrazku.
+Skrypt umo¿liwia zredukowanie procesu rekrutowania wojsk do poœwiêcenia 5 minut co oko³o 3 dni.

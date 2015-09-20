@@ -1,0 +1,85 @@
+1.2010-05-16 18:00:00 Fej Wykonaj
+2.2010-05-16 18:00:00 Fej Wykonaj
+3.2010-05-16 18:00:00 Tar Wykonaj
+4.2010-05-17 18:00:00 Fej Wykonaj
+5.2010-05-17 18:00:00 Fej Wykonaj
+6.2010-05-17 18:00:00 Fej Wykonaj
+7.2010-05-17 18:00:00 Fej Wykonaj
+8.2010-05-17 18:00:00 Tar Wykonaj
+9.2010-05-17 18:00:00 Tar Wykonaj
+10.2010-05-17 18:00:00 Tar Wykonaj
+11.2010-05-17 18:00:00 Tar Wykonaj
+12.2010-05-17 18:00:00 Tar Wykonaj
+13.2010-05-17 18:00:00 Tar Wykonaj
+14.2010-05-17 18:00:00 Tar Wykonaj
+15.2010-05-17 18:00:00 Tar Wykonaj
+16.2010-05-17 18:00:00 Tar Wykonaj
+17.2010-05-17 18:00:00 Tar Wykonaj
+18.2010-05-17 18:00:00 Tar Wykonaj
+19.2010-05-17 18:00:00 Tar Wykonaj
+20.2010-05-17 18:00:00 Tar Wykonaj
+21.2010-05-17 18:00:00 Tar Wykonaj
+22.2010-05-17 18:00:00 Tar Wykonaj
+23.2010-05-18 18:00:00 Fej Wykonaj
+24.2010-05-18 18:00:00 Fej Wykonaj
+25.2010-05-18 18:00:00 Fej Wykonaj
+26.2010-05-18 18:00:00 Fej Wykonaj
+27.2010-05-18 18:00:00 Fej Wykonaj
+28.2010-05-18 18:00:00 Tar Wykonaj
+29.2010-05-18 18:00:00 Tar Wykonaj
+30.2010-05-18 18:00:00 Tar Wykonaj
+31.2010-05-18 18:00:00 Tar Wykonaj
+32.2010-05-18 18:00:00 Tar Wykonaj
+33.2010-05-18 18:00:00 Tar Wykonaj
+34.2010-05-18 18:00:00 Tar Wykonaj
+35.2010-05-18 18:00:00 Tar Wykonaj
+36.2010-05-18 18:00:00 Tar Wykonaj
+37.2010-05-18 18:00:00 Tar Wykonaj
+38.2010-05-18 18:00:00 Tar Wykonaj
+39.2010-05-18 18:00:00 Tar Wykonaj
+40.2010-05-18 18:00:00 Tar Wykonaj
+41.2010-05-18 18:00:00 Tar Wykonaj
+42.2010-05-18 18:00:00 Tar Wykonaj
+43.2010-05-18 18:00:00 Tar Wykonaj
+44.2010-05-18 18:00:00 Tar Wykonaj
+45.2010-05-18 18:00:00 Tar Wykonaj
+46.2010-05-19 18:00:00 Fej Wykonaj
+47.2010-05-19 18:00:00 Fej Wykonaj
+48.2010-05-19 18:00:00 Fej Wykonaj
+49.2010-05-19 18:00:00 Tar Wykonaj
+50.2010-05-19 18:00:00 Tar Wykonaj
+51.2010-05-19 18:00:00 Tar Wykonaj
+52.2010-05-19 18:00:00 Tar Wykonaj
+53.2010-05-19 18:00:00 Tar Wykonaj
+54.2010-05-19 18:00:00 Tar Wykonaj
+55.2010-05-19 18:00:00 Tar Wykonaj
+56.2010-05-19 18:00:00 Tar Wykonaj
+57.2010-05-19 18:00:00 Tar Wykonaj
+58.2010-05-19 18:00:00 Tar Wykonaj
+59.2010-05-19 18:00:00 Tar Wykonaj
+60.2010-05-19 18:00:00 Tar Wykonaj
+61.2010-05-19 18:00:00 Tar Wykonaj
+62.2010-05-19 18:00:00 Tar Wykonaj
+63.2010-05-19 18:00:00 Tar Wykonaj
+64.2010-05-20 18:00:00 Tar Wykonaj
+65.2010-05-20 18:00:00 Tar Wykonaj
+66.2010-05-20 18:00:00 Tar Wykonaj
+67.2010-05-21 18:00:00 Fej Wykonaj
+68.2010-05-21 18:00:00 Fej Wykonaj
+69.2010-05-21 18:00:00 Tar Wykonaj
+70.2010-05-21 18:00:00 Tar Wykonaj
+71.2010-05-21 18:00:00 Tar Wykonaj
+72.2010-05-21 18:00:00 Tar Wykonaj
+
+Jak widaæ ta lista zawiera 72 pozycje, ka¿dy wiersz to jeden atak.
+
+Ataki s¹ posortowane wed³ug dni wysy³ania oraz wed³ug rodzajów wysy³anego wojska.
+
+Jak mo¿na zauwa¿yæ na tej liœcie w dniu 16 maja zostan¹ wys³ane tylko 3 ataki. 2 fejki i jeden off.
+Dnia 17 maja zostanie wys³ane 19 ataków 4 fejki i 15 offów.
+
+Jak widaæ wysy³ka wszystkich ataków zajmie czas przez kolejne 6 dni zawsze o tej samej porze.
+
+Nie ma mo¿liwoœci by zastêpca wys³a³ za nas ataki.
+
+Ka¿de "Wykonaj" to link do podgl¹du wioski z wype³nionymi polami zawieraj¹cymi wspó³rzêdne celu.

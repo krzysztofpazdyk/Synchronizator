@@ -1,0 +1,9 @@
+Instrukcja dotyczy przegl¹darki firefox.
+
+Klikamy na link [url=http://mj.binar.pl/plemiona/msg/?id=20090807130929]Rozkazy[/url], otworzy nam siê okno z atakami do wsy³ania. Patrzymy czy na dzieñ dzisiejszy s¹ do wys³ania jakieœ ataki. Jeœli s¹ i s¹ tam dwa rodzaje ataków "Tar" i "Fej" to najpierw bêdziemy wysy³aæ grupê ataków podpisan¹ "Fej". Procedura dla ataków "Tar" bêdzie identyczna.
+
+Jeœli mamy mysz z trzema przyciskami to klikamy œrodkowym przyciskiem na linku "wykonaj" i robimy tak dla wszystkich rozkazów z danej grupy danego dnia. Spodowuje to otwarcie ka¿dego ataku w nowej zak³adce firfox'a. (Jeœli nie mamy myszy z trzema przyciskami to klikamy prawym przyciskiem myszy na pierwszym przycisku "Wykonaj", pojawi siê menu podrêczne. Teraz wciskamy na klawiaturze klawisz "j". Jego wciœniêcie spowoduje ¿e link do ataku zostanie otworzony w nowej karcie. Procedurê z prawym przyciskiem myszy i klawiszem "j" powtarzamy dla wszystkich ataków z danej grupy, które nale¿y wys³aæ danego dnia.)
+
+
+Kolejny krok gdy ju¿ dany rodzaj ataków (Tar lub Fej) bêdzie otworzony w zak³adkach to po kolei przechodzenie do zak³adek i jeœli mamy zainstalowane skrypty do Fejka i Offa w pasku skrótów to klikniêcie na odpowiedni skrypt w zale¿noœci jaki rodzaj ataków siê wysy³a. Po klikniêciu skryptu (Fej lub Off) aktywnym polem stanie siê pole przycisku "Napad" to znaczy ¿e wystarczy wcisn¹æ przycisk "Enter" by wys³aæ atak. Jeœli mamy w sk³adzie ataku katapulty 
+trzeba bêdzie jeszcze wybraæ cel ataku dla katapult.

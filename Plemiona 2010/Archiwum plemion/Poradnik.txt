@@ -1,0 +1,113 @@
+[b]Czêœæ pierwsza po korekcie[/b]
+
+[size=20][color=#ff0000][b]Wioski Obronne (defensywne)[/b][/color][/size]
+
+
+[size=12][color=#00a500][b]Punkt Pierwszy:[/b] [i]Struktura Wojska Obronnego i jego podzia³ :D[/i][/color][/size]
+
+[color=#0000ff][i]A) Standardowe wioski defensywne :[/i][/color]
+
+[color=#a500a5][b]I[/b][/color]
+
+[img]http://wiki.plemiona.pl/images/b/b6/Pikinier_m.png[/img]7000 Pikinierów
+[img]http://wiki.plemiona.pl/images/0/00/Miecznik_m.png[/img]5000 Mieczników
+[img]http://wiki.plemiona.pl/images/2/27/%C5%81ucznik_m.png[/img] 7000 £uczników
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]500 Zwiadowców
+
+[i]Opis: Uniwersalny def na ka¿d¹ okazjê. Czas budowy 49 dni[/i]
+
+[color=#a500a5][b]II[/b][/color]
+
+[img]http://wiki.plemiona.pl/images/4/47/Ci%C4%99%C5%BCki_kawalerzysta_m.png[/img]3000 Ciê¿kiej Kawalerii
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]1000 Zwiadowców
+
+[i]Opis: bardzo szybka i skuteczna w kryzysowych sytuacjach, niestety bardzo d³ugo siê buduje oraz du¿o kosztuje surowców[/i]
+
+
+[color=#0000ff][i]C) Specjalne wioski defensywne :[/i][/color]
+
+
+[color=#a500a5][b]a) Wioska Zwiadowcza[/b][/color]
+
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]10000 Zwiadowców
+Opis :
+Wioska, która powinna byæ w centrum wiosek defensywnych, nigdy na skraju Naszych wiosek, jest bardzo ³atwym k¹skiem, poniewa¿ nie posiada obrony.
+Zwiad wykorzystujemy z niej do akcji pomocowych jak równie¿ do szpiegowania wiosek wrogów.
+
+[b]Punkt Drugi : Struktura zabudowy budynkami wioski obronnej[/b]
+
+Mo¿na siê bawiæ w profilowanie poszczególnych wiosek, jednak w miarê jak konto bêdzie ros³o taka zabawa stanie siê mêcz¹ca. 
+Najlepiej stosowaæ uniwersaln¹ zabudowê, podajê dla przyk³adu:
+
+20 ratusz
+10 warsztat
+22 rynek
+
+reszta na maks
+
+Oczywiœcie mo¿na by³oby coœ jeszcze wycisn¹æ likwiduj¹c piedesta³, obni¿aj¹c jeszcze warsztat ale w d³u¿szej perspektywie nie jest to warte zachodu.
+Tak wyprofilowana wioska daje nam dodatkowe 740 miejsc na wojaków.
+
+[b]Czêœæ druga po korekcie[/b]
+
+[size=20][color=#ff0000][b]Wioski atakuj¹ce (ofensywne)[/b][/color][/size]
+
+[size=12][b][color=#00a500]Punkt Pierwszy:[/color][/b] [color=#0eae0e][i]Struktura wojska atakuj¹cego i jego podzia³ :)[/i][/color][/size]
+
+[color=#0000ff][i]A) Standardowe wioski offowe :[/i][/color]
+
+[color=#a500a5][b]I[/b][/color]
+
+[img]http://www.lsltest1.yoyo.pl/wktest/images/top1.jpg[/img]6000 Toporów
+[img]http://wiki.plemiona.pl/images/d/d7/Lekki_kawalerzysta_m.png[/img]3000 Lekkiej
+[img]http://wiki.plemiona.pl/images/d/d6/Taran_m.png[/img]300 Taranów
+[img]http://wiki.plemiona.pl/images/7/73/Katapulta_m.png[/img]20 Katapult
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]100 Zwiadowców
+
+Czas budowy:
+18,2 dni bez dosy³ania surowców
+14,2 dni z dosy³aniem surowców
+
+[color=#a500a5][b]II[/b][/color]
+
+[img]http://www.lsltest1.yoyo.pl/wktest/images/top1.jpg[/img]6000 Toporów
+[img]http://wiki.plemiona.pl/images/d/d7/Lekki_kawalerzysta_m.png[/img]2000 Lekkiej Kawalerii
+[img]http://wiki.plemiona.pl/images/6/60/%C5%81ucznik_na_koniu_m.png[/img]800 £uczników na Koniach
+[img]http://wiki.plemiona.pl/images/d/d6/Taran_m.png[/img]300 Taranów
+[img]http://wiki.plemiona.pl/images/7/73/Katapulta_m.png[/img]20 Katapult
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]100 Zwiadowców
+
+Czas budowy:
+16 dni bez dosy³ania surowców
+14,2 dni z dosy³aniem surowców
+
+Ten off buduje siê zdecydowanie krócej od poprzedniego, posiadaj¹c tak¹ sam¹ si³ê ra¿enia.
+
+[color=#0000ff][i]B) wioski offowe na bunkry :[/i][/color]
+
+[color=#a500a5][b]a)rodzaj pierwszy[/b][/color]
+
+[img]http://www.lsltest1.yoyo.pl/wktest/images/top1.jpg[/img]6000 Toporów
+[img]http://wiki.plemiona.pl/images/d/d7/Lekki_kawalerzysta_m.png[/img]2500 Lekkiej
+[img]http://wiki.plemiona.pl/images/d/d6/Taran_m.png[/img]500 Taranów
+[img]http://wiki.plemiona.pl/images/7/73/Katapulta_m.png[/img]20 Katapult
+[img]http://wiki.plemiona.pl/images/8/81/Zwiadowca_m.png[/img]100 Zwiadu
+[img]http://wiki.plemiona.pl/images/6/67/Rycerz_m.png[/img]1 Rycerz
+
+[i]Opis: Polecane, jeœli przeciwnik robi w wiosce “Bunkier”. Dajemy do tego rycka, w zale¿noœci od iloœci wojska w bunkrze, mur spada od 4 do 10 poziomów, a nawet do zera przy zwyk³ej iloœci wojsk defensywnych jednej wioski.
+4 takie zagrody ofensywy w akcji skutecznie rozbijaj¹ mur w wiosce:
+60 000 pikinierów
+60 000 mieczników
+60 000 ³uczników
+10 000 Ciê¿kiej
+Wtedy liczy siê zgranie ludzi, po obaleniu muru, pozostaje nam zwyk³ymi zagrodami ofensywy dobiæ wojska pozostaj¹ce bez obrony za murem[/i]
+
+[b]Podsumowanie:
+Jak zauwa¿yliœcie w prawie ka¿dej wiosce jest:
+20 katapult
+S¹ one tam ze wzglêdu ubijania placu, by przeciwnik nie mia³ mo¿liwoœci manewru wojskiem, przy atakach sk³adniowych nie daje mo¿liwoœci szansy na odbicie grubasów wchodz¹cych po wojskach ofensywnych.
+100 zwiadowców
+Iloœæ w miarê przyzwoita by nie zabieraæ miejsca potrzebnego dla ofensywy, ale zawsze mo¿e coœ zobaczyæ za mur.[/b]
+
+
+[size=12][color=#00a500][b]Punkt Drugi :[/b] Struktura zabudowy budynkami wioski atakuj¹cej[/color][/size]

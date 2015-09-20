@@ -1,0 +1,28 @@
+Wymagania:
+
+1. Konto premium w czasie sk³adania raportu oraz wysy³ania ataków, 
+2. Z³o¿enie raportu,
+3. Podanie godziny o jakiej chce siê wysy³aæ ataki np. 18:00, 
+4. Wys³anie ataków.
+
+Jak z³o¿yæ raport:
+
+Nale¿y wejœæ w PRZEGL¥DY --> WOJSKA --> WSZYSTKIE --> W£ASNE. Wcisn¹æ CTRL+A, nastêpnie CTRL+C, teraz wchodzimy na stronê [url]http://www.zbieracz.yoyo.pl/Genraportu/[/url] i tam w wolne pole wklejamy nasze dane wciskaj¹c CTRL+V. Klikamy "Generuj". Wygenerowane listy przesy³amy osobie zbieraj¹cej raporty. W tytule wiadomoœci proszê wpisaæ godzinê o jakiej chce siê wys³aæ ataki np. 18:00.
+
+Data publikacji: 17 wrzeœnia 2010.
+
+[b]Informacje dodatkowe:[/b]
+
+Generator raportu wypisuje tylko te offy w których jest przynajmniej 15000 wojska i s¹ tarany. W wioskach z fejkami musz¹ byæ tarany lub katapulty, by by³y wypisane.
+
+Jeœli komuœ w raporcie pokaza³o 0 dla offów i 0 dla fejków to proszê wkleiæ tutaj fragment przegl¹du wojsk tak dla 5 wiosek.
+
+Opis do godziny o której bêdzie siê wysy³aæ ataki.
+Jest to godzina o której przez parê dni nale¿y mieæ z 10 minut czasu wolnego, zawsze o tej samej porze.
+
+Czy mogê sobie wybieraæ grupy
+(takie jak mam utworzone) zamiast wszystkie wojska np. przegl¹dy, wojska, wciskam offy k86, w³asne? [b]Tak[/b].
+
+Ten ma dzia³aæ dla Firefoxa oraz Explorera:
+
+[url]http://www.terminus.cba.pl/Genraportu/[/url]

@@ -1,0 +1,110 @@
+Skrypty do wstawiania offa i fejka.
+
+Off
+
+[code]
+javascript:Array.prototype.contains = function(obj) {var i, listed = false;
+for (i=0; i<this.length; i++) {if (this[i] === obj) {listed = true;break;}}return listed;};
+function getGameDoc() {getdoc = window.document;
+if(! getdoc.URL.match('game\.php')) {for(var i=0; i<window.frames.length; i++)
+ {if(window.frames[i].document.URL.match('game\.php')) {getdoc = window.frames[i].document;}}}
+return getdoc;};units = Array('axe','spy','light','marcher','ram','catapult');doc = getGameDoc();
+form = doc.units;inputs = form.getElementsByTagName('input');for (var i=0;
+ i<inputs.length; i++) {if (inputs[i].type == 'text') {if (units.contains(inputs[i].name)) 
+{next = inputs[i].nextSibling;
+do {next = next.nextSibling;} while (next.nodeType != 1);s = next.firstChild.nodeValue;
+s = next.firstChild.nodeValue.replace(/\(/g, "").replace(/\)/g,"");
+if (inputs[i].name=='spy' && parseInt(s)>100) s=100+""; 
+else s =s;insertUnit(form.elements[inputs[i].name],s);}}}
+javascript:document.forms[0].attack.focus();
+[/code]
+
+Fej
+
+[code]
+javascript:Array.prototype.contains = function(obj) {
+  var i;
+  listed = false;
+  for (i=0;i<this.length;i++) {
+     if (this[i] === obj) {
+       listed = true;
+       break;
+      }
+    }
+  return listed;
+ };
+
+function getGameDoc() {
+     getdoc = window.document;
+     if (! getdoc.URL.match('game\.php')) {
+       for (var i=0; i<window.frames.length; i++) {
+          if (window.frames[i].document.URL.match('game\.php')) {
+            getdoc = window.frames[i].document;
+           }
+         }
+       }
+     return getdoc;
+   };
+units = Array('spear','sword','axe','archer','spy','light','heavy','marcher','ram','catapult');
+doc = getGameDoc(); 
+form = doc.units; 
+inputs = form.getElementsByTagName('input'); 
+for (var i=0; i<inputs.length; i++) { 
+   if (inputs[i].type == 'text') { 
+     if (units.contains(inputs[i].name)) {
+       next = inputs[i].nextSibling; 
+       do {next = next.nextSibling;} while (next.nodeType != 1); 
+       s = next.firstChild.nodeValue;
+       s = next.firstChild.nodeValue.replace(/\(/g, "").replace(/\)/g,"");  
+       if (inputs[i].name=='spear') j1=s; if (inputs[i].name=='sword') j2=s; 
+       if (inputs[i].name=='axe') j3=s;   if (inputs[i].name=='archer') j4=s; 
+       if (inputs[i].name=='spy') j5=s;   if (inputs[i].name=='light') j6=s;
+       if (inputs[i].name=='heavy') j7=s; if (inputs[i].name=='marcher') j8=s;
+       if (inputs[i].name=='ram') j9=s;   if (inputs[i].name=='catapult') j10=s;
+      }
+    }
+  }
+for (var i=0; i<inputs.length; i++) { 
+   if (inputs[i].type == 'text') {
+     if (units.contains(inputs[i].name)) { 
+       next = inputs[i].nextSibling; 
+       do {next = next.nextSibling;} while (next.nodeType != 1); 
+       s = next.firstChild.nodeValue; 
+       s = next.firstChild.nodeValue.replace(/\(/g, "").replace(/\)/g,""); 
+       if (inputs[i].name=='spy') {
+         if (parseInt(j5)>100) s=100+""; 
+         else s=j5;
+         insertUnit(form.elements[inputs[i].name],s)
+        }
+       if (inputs[i].name=='axe') {
+         if (parseInt(j3)>100) s=100+""; 
+         else s=j3;
+         insertUnit(form.elements[inputs[i].name],s)
+        }
+       if (inputs[i].name=='light') {
+         if (parseInt(j6)>30) s=30+""; 
+         else s=j6;
+         insertUnit(form.elements[inputs[i].name],s)
+        }  
+       if (inputs[i].name=='catapult') {
+         if (parseInt(j10)>30) s=30+""; 
+         else s=j10;      
+         insertUnit(form.elements[inputs[i].name],s)
+        } 
+       if (inputs[i].name=='ram') {
+         if (parseInt(j9)>0) s=1+""; 
+         else s=0;      
+         insertUnit(form.elements[inputs[i].name],s)
+        } 
+       if (inputs[i].name=='heavy') {
+         if (parseInt(j7)>30) s=30+""; 
+         else s=j7;      
+         insertUnit(form.elements[inputs[i].name],s)
+        } 
+      }
+    }
+  }
+javascript:document.forms[0].attack.focus();
+[/code]
+
+Po klikniêciu ustawia siê focus na przycisku atak, tak wiêc wystarczy wcisn¹æ Enter  ¿eby wys³aæ atak.

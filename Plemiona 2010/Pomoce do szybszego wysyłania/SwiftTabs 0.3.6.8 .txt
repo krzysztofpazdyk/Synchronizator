@@ -1,0 +1,4 @@
+Instalacja dodatku do Firefox'a 
+[url]https://addons.mozilla.org/pl/firefox/addon/59011/[/url]
+
+Umo¿liwia przechodzenie miêdzy zak³adkami w firefoxie inaczej ni¿ za pomoc¹ CTRL+TAB.
