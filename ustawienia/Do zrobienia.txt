@@ -1,0 +1,107 @@
+Ustawienie atakowania konkretnego dnia, obecnie atakuje w oknie czasowym w ka¿de dni poprzedzaj¹ce koniec ataków
+
+Atak by³ ustawiony na 18 dzieñ miesi¹ca w godzinach od 8 do 23:50
+
+Jednak wszystko ok wys³a³em ataki w jeden dzieñ zamiast w dwa dni
+
+ Atak na 0225 (412|637) K64  zmieñ nazwê      	0001 (444|687) K64  	jutro o 04:36:49  	0	0	0	0	400	0	0	0	0	0	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0799 (639|823) K86 	jutro o 08:47:56 	0	0	6000	0	0	2000	800	0	300	20	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0297 (634|828) K86 	jutro o 09:29:04 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0251 (634|832) K86 	jutro o 11:21:45 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0265 (632|834) K86 	jutro o 12:03:18 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0285 (633|834) K86 	jutro o 12:10:35 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0272 (642|830) K86 	jutro o 12:18:53 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0292 (643|832) K86 	jutro o 13:25:09 	0	0	0	0	100	26	0	0	0	26	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0423 (657|829) K86 	jutro o 17:26:18 	0	0	0	0	100	28	0	0	0	28	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0316 (660|827) K86 	jutro o 18:11:20 	0	0	0	0	100	27	0	0	0	27	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0429 (634|847) K86 	jutro o 18:37:22 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0312 (669|819) K86 	jutro o 20:54:24 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0331 (669|820) K86 	jutro o 21:02:10 	0	0	0	0	100	27	0	0	0	27	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0314 (670|819) K86 	jutro o 21:24:11 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0303 (670|821) K86 	jutro o 21:39:16 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0414 (665|833) K86 	jutro o 21:52:44 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0374 (668|828) K86 	jutro o 21:58:30 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0344 (669|826) K86 	jutro o 22:01:22 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0351 (666|832) K86 	jutro o 22:02:21 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0466 (661|839) K86 	jutro o 22:06:27 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0378 (671|821) K86 	jutro o 22:08:08 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0362 (669|827) K86 	jutro o 22:13:14 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0503 (661|840) K86 	jutro o 22:26:35 	0	0	0	0	100	29	0	0	0	29	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0446 (662|839) K86 	jutro o 22:28:15 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0432 (663|838) K86 	jutro o 22:32:45 	0	0	0	0	100	30	0	0	0	27	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0403 (671|824) K86 	jutro o 22:35:45 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0338 (671|825) K86 	jutro o 22:46:00 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0413 (666|835) K86 	jutro o 22:50:46 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0458 (664|838) K86 	jutro o 22:56:14 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0394 (666|836) K86 	jutro o 23:07:44 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0421 (665|838) K86 	jutro o 23:19:06 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0294 (674|819) K86 	jutro o 23:20:10 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0411 (673|824) K86 	jutro o 23:32:27 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0495 (668|835) K86 	jutro o 23:40:57 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0348 (674|822) K86 	jutro o 23:42:55 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0409 (666|838) K86 	jutro o 23:42:58 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0467 (667|837) K86 	jutro o 23:50:25 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0343 (674|824) K86 	dnia 18.04. o 00:00:47 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0390 (666|839) K86 	dnia 18.04. o 00:01:50 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0379 (674|825) K86 	dnia 18.04. o 00:11:17 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0405 (668|837) K86 	dnia 18.04. o 00:14:52 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0449 (674|826) K86 	dnia 18.04. o 00:21:41 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0461 (670|835) K86 	dnia 18.04. o 00:32:31 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0464 (688|836) K86 	dnia 18.04. o 08:42:58 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0499 (680|850) K86 	dnia 18.04. o 08:55:27 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0481 (688|837) K86 	dnia 18.04. o 08:55:31 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0533 (690|833) K86 	dnia 18.04. o 09:03:27 	0	0	0	0	100	23	0	0	0	23	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0559 (688|838) K86 	dnia 18.04. o 09:08:35 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0512 (687|843) K86 	dnia 18.04. o 09:51:57 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0582 (688|842) K86 	dnia 18.04. o 10:03:39 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0586 (690|839) K86 	dnia 18.04. o 10:15:46 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0613 (683|851) K86 	dnia 18.04. o 10:24:36 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0625 (684|850) K86 	dnia 18.04. o 10:30:56 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0577 (688|845) K86 	dnia 18.04. o 10:49:17 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0587 (681|855) K86 	dnia 18.04. o 10:52:48 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0607 (688|847) K86 	dnia 18.04. o 11:19:55 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0610 (683|854) K86 	dnia 18.04. o 11:19:56 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0593 (687|849) K86 	dnia 18.04. o 11:27:22 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0630 (675|863) K86 	dnia 18.04. o 11:32:31 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0542 (686|852) K86 	dnia 18.04. o 11:54:21 	0	0	0	0	100	26	0	0	0	26	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0645 (684|855) K86 	dnia 18.04. o 12:02:21 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0626 (677|863) K86 	dnia 18.04. o 12:12:51 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0612 (695|843) K86 	dnia 18.04. o 13:23:39 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0631 (694|846) K86 	dnia 18.04. o 13:39:37 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0551 (700|833) K87 	dnia 18.04. o 13:45:30 	0	0	0	0	100	30	0	0	0	23	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0637 (690|853) K86 	dnia 18.04. o 13:49:49 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0477 (700|834) K87 	dnia 18.04. o 13:55:08 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0572 (696|844) K86 	dnia 18.04. o 14:03:45 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0539 (695|846) K86 	dnia 18.04. o 14:05:20 	0	0	0	0	100	27	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0601 (698|841) K86 	dnia 18.04. o 14:18:33 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0608 (700|842) K87 	dnia 18.04. o 15:25:39 	0	0	0	0	100	29	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0339 (555|850) K85 	dnia 18.04. o 15:56:47 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0638 (701|845) K87 	dnia 18.04. o 16:31:38 	0	0	0	0	100	28	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0597 (700|847) K87 	dnia 18.04. o 16:31:54 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0540 (703|841) K87 	dnia 18.04. o 16:35:24 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0622 (704|839) K87 	dnia 18.04. o 16:40:38 	0	0	0	0	100	24	0	0	0	26	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0605 (702|844) K87 	dnia 18.04. o 16:45:22 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0515 (704|840) K87 	dnia 18.04. o 16:51:23 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0604 (705|839) K87 	dnia 18.04. o 17:08:26 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0558 (702|846) K87 	dnia 18.04. o 17:11:23 	0	0	0	0	100	27	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0560 (705|840) K87 	dnia 18.04. o 17:19:21 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0600 (702|847) K87 	dnia 18.04. o 17:25:08 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0644 (699|853) K86 	dnia 18.04. o 17:35:24 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0367 (560|865) K85 	dnia 18.04. o 18:18:14 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0376 (560|866) K85 	dnia 18.04. o 18:37:57 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0402 (556|864) K85 	dnia 18.04. o 19:31:23 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0567 (709|843) K87 	dnia 18.04. o 19:44:38 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0326 (554|863) K85 	dnia 18.04. o 20:00:05 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0646 (613|898) K86 	dnia 18.04. o 20:10:47 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0628 (711|841) K87 	dnia 18.04. o 20:18:07 	0	0	0	0	100	30	0	0	0	24	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0583 (711|842) K87 	dnia 18.04. o 20:28:47 	0	0	0	0	100	26	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0642 (706|854) K87 	dnia 18.04. o 20:51:12 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0518 (715|834) K87 	dnia 18.04. o 21:03:44 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0585 (712|846) K87 	dnia 18.04. o 21:43:00 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0532 (716|836) K87 	dnia 18.04. o 21:49:48 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0010 (533|791) K75 	dnia 18.04. o 21:59:01 	0	0	0	0	100	26	0	0	0	26	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0603 (715|844) K87 	dnia 18.04. o 22:43:28 	0	0	0	0	100	30	0	0	0	25	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0563 (718|836) K87 	dnia 18.04. o 22:48:13 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0596 (716|844) K87 	dnia 18.04. o 23:10:25 	0	0	0	0	100	30	0	0	0	30	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0627 (717|843) K87 	dnia 18.04. o 23:28:25 	0	0	0	0	100	30	0	0	0	27	0	0
+Atak na wioska Xafiuss 027 (626|808) K86 zmieñ nazwê 	0620 (715|848) K87 	dnia 18.04. o 23:29:51 	0	0	0	0	100	30	0	0	0	24	0	0

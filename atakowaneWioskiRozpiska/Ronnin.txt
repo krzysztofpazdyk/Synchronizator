@@ -1,0 +1,7 @@
+[village](93|910)[/village]
+[village](93|911)[/village]
+[village](90|909)[/village]
+[village](87|910)[/village]
+[village](89|910)[/village]
+[village](88|906)[/village]
+[village](33|905)[/village]
